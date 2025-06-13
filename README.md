@@ -1,6 +1,6 @@
 # Projeto de Automação de Testes - E-commerce & API
 
-## Instalação dos Requisitos:
+## Requisitos:
 
 ```
 1. git clone https://github.com/guustavosantoos/F1ST_Test.git 
