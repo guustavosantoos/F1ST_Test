@@ -25,3 +25,22 @@ npx cypress open
 ```
 npx cypress run
 ```
+
+
+## Estrutura
+
+- `cypress/e2e/features/` — Cenários BDD (.feature)
+- `cypress/e2e/tests/` — Cenários de Testes (Cypress)
+- `cypress/fixtures/` — Massas de Testes
+
+## Exemplo de Teste de API
+
+Consulta à API do Trello e exibição do campo `name` da estrutura `list`:
+
+{
+"data": {
+"list": {
+"name": "Professional"
+}
+}
+}
